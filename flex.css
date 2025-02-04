@@ -1,0 +1,22 @@
+.first {
+    font-family: initial;
+    width: 50rem;
+    height: 50rem;
+    background-color: #2f2c2c;
+    text-align: center;
+    color: goldenrod;
+    justify-content: center;
+    margin: auto;
+    padding: auto;
+    font-size: 1.5rem;
+}
+
+img {
+    z-index: -1;
+    position: absolute;
+    opacity: 50%;
+}
+
+body {
+    background-color: white;
+}
