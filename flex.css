@@ -19,3 +19,8 @@ img {
 body {
     background-color: white;
 }
+
+.Certificate {
+    background-color: white;
+    opacity: 90%;
+}
