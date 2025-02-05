@@ -1,13 +1,11 @@
 .first {
     font-family: initial;
-    width: 50rem;
-    height: 50rem;
     background-color: #2f2c2c;
     text-align: center;
     color: goldenrod;
     justify-content: center;
-    margin: auto;
-    padding: auto;
+    margin: 2rem;
+    padding: 2rem;
     font-size: 1.5rem;
 }
 
