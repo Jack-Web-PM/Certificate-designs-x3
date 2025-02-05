@@ -12,9 +12,10 @@
 }
 
 img {
-    z-index: -1;
-    position: absolute;
+    align-items: center;
     opacity: 50%;
+    width: 40rem;
+    height: auto;
 }
 
 body {
