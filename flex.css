@@ -18,6 +18,11 @@
     transform: translate(-50%, -50%);
 }
 
+.golden {
+    opacity: 100%;
+    width: 20rem;
+}
+
 img {
     align-items: center;
     opacity: 50%;
@@ -52,4 +57,9 @@ h4 {
 
 p {
     font-size: 2rem;
+}
+
+#try {
+    background-color:orange;
+    color: black;
 }
