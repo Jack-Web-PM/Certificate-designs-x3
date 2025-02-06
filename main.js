@@ -5,7 +5,10 @@ document.querySelector("button").addEventListener("click", () => {
 const CertificateImg = document.querySelector("img");
 
 let myButton = document.querySelector("button");
-let myHeading = document.querySelector("h1");
+let myHeading = document.querySelector("h2");
+
+
+
 
 function setUserName() {
     const myName = prompt("Please enter your name.");
@@ -13,7 +16,7 @@ function setUserName() {
       setUserName();
     } else {
       localStorage.setItem("name", myName);
-      myHeading.textContent = `Mozilla is cool, ${myName}`;
+      myHeading.textContent = `${myName}`;
     }
   }
 
