@@ -29,7 +29,7 @@ function setUserName() { //set user name function
   mySecButton.addEventListener("click", () => {//image changer
     const mySrc = myImage.getAttribute("src");
     if (mySrc === "image/computer science cropped.png") {
-      myImage.setAttribute("src", "image/spiderman point each other cropped.png");
+      myImage.setAttribute("src", "image/bekphnqftcb41 4.png");
     } else {
       myImage.setAttribute("src", "image/women yelling at cat cropped.png");
     } 

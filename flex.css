@@ -70,7 +70,21 @@ p {
     color: black;
 }
 
+#left {
+    width: 25rem;
+    opacity: 100%;
+    position: absolute;
+    left: 40px;
+    bottom: -177px;
+}
 
+#right {
+    width: 25rem;
+    opacity: 100%;
+    position: absolute;
+    right: 40px;
+    top: 61.5px;
+}
 
 
 /* #next {
